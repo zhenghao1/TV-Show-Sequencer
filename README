@@ -1,0 +1,12 @@
+Introduction
+============
+
+I download a lot of tv shows.  I am quite uptight about renaming them to my 
+kind of naming convention.  Say for instance that the show you download has the
+name How.I.Met.Your.Mother.S4E08_HD_1080P.avi.  I like it to be called:
+
+How I Met Your Mother 408
+
+Currently I just rename the files one at a time doing a series of cut and
+paste, but that's so yesterday, so I decided to write a script as a form of 
+practice.
